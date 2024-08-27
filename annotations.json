@@ -1,0 +1,151 @@
+{
+    "images": [
+        {
+            "id": "0",
+            "file_name": "image_0.png"
+        },
+        {
+            "id": "1",
+            "file_name": "image_1.png"
+        },
+        {
+            "id": "2",
+            "file_name": "image_2.png"
+        },
+        {
+            "id": "3",
+            "file_name": "image_3.png"
+        },
+        {
+            "id": "4",
+            "file_name": "image_4.png"
+        }
+    ],
+    "annotations": [
+        {
+            "image_id": "0",
+            "id": "0",
+            "caption": "several people ride an elephant on a trail in the woods."
+        },
+        {
+            "image_id": "0",
+            "id": "1",
+            "caption": "tourists riding on an elephant with a guide in a forest"
+        },
+        {
+            "image_id": "0",
+            "id": "2",
+            "caption": "a group of people riding an elephants back."
+        },
+        {
+            "image_id": "0",
+            "id": "3",
+            "caption": "some people ride an elephant through the trees."
+        },
+        {
+            "image_id": "0",
+            "id": "4",
+            "caption": "a guide leads a small group of tourists on an elephant back ride through the forest."
+        },
+        {
+            "image_id": "1",
+            "id": "0",
+            "caption": "a group of people stand on a side walk near a city bus"
+        },
+        {
+            "image_id": "1",
+            "id": "1",
+            "caption": "people waiting on the side of the road for the yellow bus."
+        },
+        {
+            "image_id": "1",
+            "id": "2",
+            "caption": "a yellow bus driving down a street next to a crowd of people."
+        },
+        {
+            "image_id": "1",
+            "id": "3",
+            "caption": "a group of people gather around a bus."
+        },
+        {
+            "image_id": "1",
+            "id": "4",
+            "caption": "a yellow bus traveling on a not-so-busy road."
+        },
+        {
+            "image_id": "2",
+            "id": "0",
+            "caption": "a bed in a room with brown tiles and two lights and a small cabinet"
+        },
+        {
+            "image_id": "2",
+            "id": "1",
+            "caption": "a bedroom scene with a bed and dresser."
+        },
+        {
+            "image_id": "2",
+            "id": "2",
+            "caption": "a small white wooden bed sitting on a tiled floor."
+        },
+        {
+            "image_id": "2",
+            "id": "3",
+            "caption": "a spare room with a bed and large red tiles is pictured."
+        },
+        {
+            "image_id": "2",
+            "id": "4",
+            "caption": "a freshly made bed resting on a tiled floor."
+        },
+        {
+            "image_id": "3",
+            "id": "0",
+            "caption": "boats in a river on a foggy day."
+        },
+        {
+            "image_id": "3",
+            "id": "1",
+            "caption": "some boats are going around the river near the docks."
+        },
+        {
+            "image_id": "3",
+            "id": "2",
+            "caption": "a harbor next to body of water with boats on it."
+        },
+        {
+            "image_id": "3",
+            "id": "3",
+            "caption": "a group of boats floating on top of a lake."
+        },
+        {
+            "image_id": "3",
+            "id": "4",
+            "caption": "a harbor scene with a long dock and boats in the water"
+        },
+        {
+            "image_id": "4",
+            "id": "0",
+            "caption": "people playing baseball and a man in yellow holding a bat"
+        },
+        {
+            "image_id": "4",
+            "id": "1",
+            "caption": "a baseball player gets ready to hit the ball."
+        },
+        {
+            "image_id": "4",
+            "id": "2",
+            "caption": "a young man taking a swing at a baseball"
+        },
+        {
+            "image_id": "4",
+            "id": "3",
+            "caption": "a batter waits at home plate for the pitcher to throw the ball."
+        },
+        {
+            "image_id": "4",
+            "id": "4",
+            "caption": "a baseball game taking place on a field."
+        }
+    ]
+}
